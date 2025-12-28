@@ -1,12 +1,1 @@
-# Keep vendor directory for easy distribution
-!vendor/
-
-# Exclude composer lock and phar
-composer.lock
-composer.phar
-
-# Exclude development files
-.DS_Store
-.idea/
-.vscode/
-*.log
+vendor/
