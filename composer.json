@@ -1,8 +1,13 @@
 {
-    "name": "yourname/wordpress-mcp-lite",
+    "name": "tannguyen/wordpress-mcp-lite",
     "description": "A lightweight WordPress MCP plugin providing AI-accessible interfaces to WordPress data and functionality through standardized tools. Supports WordPress Core and WooCommerce.",
     "type": "wordpress-plugin",
     "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Tan Nguyen"
+        }
+    ],
     "require": {
         "firebase/php-jwt": "^6.11"
     },

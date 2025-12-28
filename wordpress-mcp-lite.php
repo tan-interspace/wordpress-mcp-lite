@@ -5,7 +5,7 @@
  * Version:           1.0.0
  * Requires at least: 6.4
  * Requires PHP:      8.0
- * Author:            Your Name
+ * Author:            Tan Nguyen
  * License:           GPL-2.0-or-later
  * License URI:       https://spdx.org/licenses/GPL-2.0-or-later.html
  * Text Domain:       wordpress-mcp-lite
